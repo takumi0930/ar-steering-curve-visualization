@@ -5,7 +5,7 @@
 ![sapmle](./img/折れ線バーの提示.jpg)
 
 ## システム構成
-![sample](./img/nututon-app-top-page_screenshot.png)
+![sample](./img/System_Architecture_Diagram.png)
 
 ## ファイル構成
 ```
