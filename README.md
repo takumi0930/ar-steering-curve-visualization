@@ -1,10 +1,13 @@
 # ar-steering-curve-visualization
 ハンドル操作情報を基に，将来の進行方向をARグラスに提示するシステムになります．
 
-# 折れ線バーの提示
+## 折れ線バーの提示
 ![sapmle](./img/折れ線バーの提示.jpg)
 
-# ファイル構成
+## システム構成
+![sample](./img/nututon-app-top-page_screenshot.png)
+
+## ファイル構成
 ```
 ar-steering-curve-visualization/
 ├── sensor_program/ # ノートPC
